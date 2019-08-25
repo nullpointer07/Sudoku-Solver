@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background: #c8fffe;
+}
+.App-body {
+  padding: 10px;
+}
+
+.App-button {
+  padding: 10px;
+  width: 10%;
 }
 
 .App-logo {
@@ -17,6 +26,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App-Sudoku-input {
+  width: 50px;
+  height: 50px;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
 }
 
 .App-link {
